@@ -1,0 +1,3 @@
+# GitCursoTemplate
+Projeto criado de exemplo
+Este é o conteúdo do curso.
